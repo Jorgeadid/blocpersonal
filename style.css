@@ -1,0 +1,111 @@
+.imagen {
+        left: 0%;
+        width: 10%;
+        height: 80px;
+        border: 3px  red;
+        position:absolute;
+        top: 0.5em;
+        padding: 0;
+       }
+.rojo {
+        left: 0%;
+        width: 10%;
+        height: 80px;
+        border: 3px  red;
+        position:absolute;
+        top: 0.5em;
+        padding: 0;
+        }
+.boxabajo {
+        background-color: rgb(255, 187, 0);
+        left: 0%;
+        width: 101%;
+        height: 70px;
+        border: 3px  red;
+        position: absolute;
+        top: 40em;
+        padding: 0;
+        }
+.boxarriva {
+    background-color: rgb(223, 124, 19); 
+    left: 0%;
+    width: 101%;
+    height: 80px;
+    border: 3px  red;
+    position: absolute;
+    top: em;
+    padding: 0;
+     }
+.mama {
+  left:58%;
+  top: 0em;
+  position: absolute;
+  /*background-color:;*/
+  width: 50px;
+  border: 3px rebeccapurple;
+  padding: 10px;
+  margin: 0px;
+       }
+.papu  {
+    left:65%;
+    top: 0em;
+    position: absolute;
+  /* background-color:;*/
+  width: 50px;
+  border: 0px ;
+  padding: 10px;
+  margin: 0px;
+
+      }
+.papo {
+        left:74%;
+        top: 0em;
+        position: absolute;
+       /* background-color: ;*/
+        width: 50px;
+        border: 0px solid;
+        padding: 10px;
+        margin: 0px;
+
+          }
+.papa  {
+        left:83%;
+        top: 0em;
+        position: absolute;
+       /* background-color: ;*/
+        width: 50px;
+        border: 0px solid ;
+        padding: 10px;
+        margin: 0px;
+
+              }
+.papi {
+       left:90%;
+       top: 0em;
+       position: absolute;
+       /* background-color:;*/
+       width: 50px;
+       border: 0px solid;
+       padding: 10px;
+       margin: 0px;
+       }
+
+.nombre {
+        left: 40%;
+        top: 15em;
+        position: absolute;
+        width: 250px;
+        background-color: orange;
+        border: 1px dashed red;
+        padding: 20px;
+        margin: 0px;
+      }
+.poli {
+        left: 30%;
+        top: 15em;
+        position: absolute;
+        width: 400px;
+        border: 1px groove rgb(200, 255, 0);
+        padding: 20px;
+        margin: 0px;
+}
